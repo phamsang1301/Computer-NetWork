@@ -1,0 +1,1 @@
+[Timestamp from icmp data (relative): 0.773620280 seconds]

@@ -1,0 +1,14 @@
+Collecting wmi-client-wrapper
+  Downloading wmi-client-wrapper-0.0.12.tar.gz (3.9 kB)
+Collecting mock
+  Downloading mock-4.0.3-py3-none-any.whl (28 kB)
+Collecting sh
+  Downloading sh-1.14.1-py2.py3-none-any.whl (40 kB)
+Building wheels for collected packages: wmi-client-wrapper
+  Building wheel for wmi-client-wrapper (setup.py): started
+  Building wheel for wmi-client-wrapper (setup.py): finished with status 'done'
+  Created wheel for wmi-client-wrapper: filename=wmi_client_wrapper-0.0.12-py3-none-any.whl size=4138 sha256=428a954011ce6717b0ad6a138d8588ef5b2b8f1884ad63624af26b87a8cd6294
+  Stored in directory: /home/sangpham/.cache/pip/wheels/ee/27/53/a36466836c856badd6c1cd58880fa7ef968cdfb2e84439b0e3
+Successfully built wmi-client-wrapper
+Installing collected packages: mock, sh, wmi-client-wrapper
+Successfully installed mock-4.0.3 sh-1.14.1 wmi-client-wrapper-0.0.12
